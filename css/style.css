@@ -1,0 +1,32 @@
+
+
+.row{
+    border: 1px dashed purple;
+    max-width: 100%;
+}
+
+.row > [class^='col']{
+    min-height: 50px;
+    background-color: #0000ff;
+    border: 1px solid #fff;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.row > [class^='col']  [class^='col']{
+    background-color: #00ff00;
+    border: 1px solid #0000ff;
+
+}
+
+h1
+{
+    color:#000
+}
+
+.divisor{
+    height:20px;
+    width:100%
+}
