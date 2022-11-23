@@ -12,7 +12,8 @@
         max-width: 1500px;
         min-height: 500px;
         margin: 0 auto;
-        border: 2px dashed darkred
+        border: 2px dashed darkred;
+        margin-bottom:10px
     }
     
     .flex{

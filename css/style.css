@@ -7,7 +7,7 @@
 
 .row > [class^='col']{
     min-height: 50px;
-    background-color: #0000ff;
+    background-color: #006CFA;
     border: 1px solid #fff;
     color: white;
     padding: 15px;
@@ -17,7 +17,7 @@
 
 .row > [class^='col']  [class^='col']{
     background-color: #00ff00;
-    border: 1px solid #0000ff;
+    border: 1px solid #006CFA;
 
 }
 
